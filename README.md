@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 Currently building scalable Data Engineering solutions with PySpark, Snowflake, AWS & Airflow<br><br>👯 Open to collaborating on Data Engineering, Big Data and Cloud Analytics projects<br><br>🤝 Exploring modern data platforms, streaming architectures and AI-powered data applications<br><br>🌱 Learning Snowpark, Dynamic Tables, Advanced Spark Optimization and GenAI for Data Engineering<br><br>💬 Ask me about PySpark, SQL, AWS, Data Warehousing, ETL Pipelines and Snowflake<br><br>⚡ Fun fact: I believe every dataset has a story waiting to be discovered 🚀
 
 
