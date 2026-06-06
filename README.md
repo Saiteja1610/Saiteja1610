@@ -1,42 +1,14 @@
-# Hi 👋, I'm Lagudu SaiTeja
+# About Me:
+🔭 Currently building scalable Data Engineering solutions with PySpark, Snowflake, AWS & Airflow<br><br>👯 Open to collaborating on Data Engineering, Big Data and Cloud Analytics projects<br><br>🤝 Exploring modern data platforms, streaming architectures and AI-powered data applications<br><br>🌱 Learning Snowpark, Dynamic Tables, Advanced Spark Optimization and GenAI for Data Engineering<br><br>💬 Ask me about PySpark, SQL, AWS, Data Warehousing, ETL Pipelines and Snowflake<br><br>⚡ Fun fact: I believe every dataset has a story waiting to be discovered 🚀
 
-### A passionate Data Engineer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Saiteja1610&label=Profile views&color=0e75b6&style=flat" alt="Saiteja1610" /> </p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saitejalagudu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lagudusaiteja1610@gmail.com) 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Saiteja1610" alt="Saiteja1610" /></a> </p>
-
-- 🔭 I'm currently working on **- Building end-to-end Data Engineering projects using PySpark, Snowflake, DBT, and Airflow
-- Exploring modern Snowflake features like Snowpipe, Streams, Tasks, Dynamic Tables, and Snowpark
-**
-
-- 🌱 I'm currently learning **- Advanced PySpark Performance Tuning
-- Snowflake Data Engineering
-- DBT Core & Analytics Engineering
-- Airflow Orchestration
-- Kafka & Streaming Pipelines**
-
-- 👯 I'm looking to collaborate on **- Open-source Data Engineering projects
-- PySpark, Snowflake, DBT, and Cloud Data Platform solutions
-- Data Quality and Data Pipeline Automation initiatives**
-
-- 🤝 I'm looking for help with **- Advanced Spark Optimization
-- Real-time Streaming Architectures
-- GenAI applications for Data Engineering
-- Data Platform CI/CD best practices**
-
-- 💬 Ask me about ** PySpark, SQL, AWS, Data Warehousing, ETL Pipelines and Snowflake**
-
-- 📫 How to reach me **lagudusaiteja1610@gmail.com**
-
-- ⚡ Fun fact ** I believe every dataset has a story waiting to be discovered 🚀**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/Saiteja1610" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Saiteja1610" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/saitejalagudu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saitejalagudu" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/hadoop" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a></p>
+# 💻 Tech Stack:
+![AWS](https://aws.amazon.com/free/compute/?trk=1e87c521-1a01-4d2e-8536-420c8d9783d9&sc_channel=ps&trk=d5052445-c0b4-49ea-b47e-e1e180ed4328&sc_channel=ps&ef_id=Cj0KCQjwio_RBhDMARIsAJPveNNhKvCMxg5cImESNT4VcqciKf0L0j4Y-Ht0BTqCSDPXV4nMiWfH2Z0aAlttEALw_wcB:G:s&s_kwcid=AL!4422!3!808712687457!p!!g!!amazon%20web%20services%20cloud%20computing!23846236277!198027693802&gad_campaignid=23846236277&gbraid=0AAAAADjHtp_VELvLjxqBqHMaHJ6NIKJd7&gclid=Cj0KCQjwio_RBhDMARIsAJPveNNhKvCMxg5cImESNT4VcqciKf0L0j4Y-Ht0BTqCSDPXV4nMiWfH2Z0aAlttEALw_wcB) ![Apache Airflow](https://airflow.apache.org/docs/) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Saiteja1610&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Saiteja1610&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Saiteja1610&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
