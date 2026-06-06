@@ -19,13 +19,45 @@
 ## 🚀 Data Engineering Tech Stack
 
 <p align="center">
-<a href="https://www.python.org/doc/"><img src="https://skillicons.dev/icons?i=python" /></a>
-<a href="https://spark.apache.org/docs/latest/"><img src="https://skillicons.dev/icons?i=spark" /></a>
-<a href="https://aws.amazon.com/documentation/"><img src="https://skillicons.dev/icons?i=aws" /></a>
-<a href="https://airflow.apache.org/docs/"><img src="https://skillicons.dev/icons?i=apacheairflow" /></a>
-<a href="https://docs.github.com/en/actions"><img src="https://skillicons.dev/icons?i=githubactions" /></a>
-<a href="https://git-scm.com/doc"><img src="https://skillicons.dev/icons?i=git" /></a>
-<a href="https://docs.databricks.com/"><img src="https://cdn.simpleicons.org/databricks/FF3621" width="48"/></a>
-<a href="https://docs.snowflake.com/"><img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="48"/></a>
-</p>
 
+<a href="https://www.python.org/doc/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=python" height="55"/>
+</a>
+
+<a href="https://spark.apache.org/docs/latest/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=spark" height="55"/>
+</a>
+
+<a href="https://aws.amazon.com/documentation/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=aws" height="55"/>
+</a>
+
+<a href="https://airflow.apache.org/docs/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=apacheairflow" height="55"/>
+</a>
+
+<a href="https://pandas.pydata.org/docs/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="55"/>
+</a>
+
+<a href="https://jupyter.org/documentation" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="55"/>
+</a>
+
+<a href="https://docs.github.com/en/actions" target="_blank">
+  <img src="https://skillicons.dev/icons?i=githubactions" height="55"/>
+</a>
+
+<a href="https://git-scm.com/doc" target="_blank">
+  <img src="https://skillicons.dev/icons?i=git" height="55"/>
+</a>
+
+<a href="https://docs.databricks.com/" target="_blank">
+  <img src="https://cdn.simpleicons.org/databricks/FF3621" height="55"/>
+</a>
+
+<a href="https://docs.snowflake.com/" target="_blank">
+  <img src="https://cdn.simpleicons.org/snowflake/29B5E8" height="55"/>
+</a>
+
+</p>
