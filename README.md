@@ -6,7 +6,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saitejalagudu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lagudusaiteja1610@gmail.com) 
 
 # 💻 Tech Stack:
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/doc/)
 [![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)](https://spark.apache.org/docs/latest/)
 [![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/docs/)
@@ -14,6 +13,19 @@
 [![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)](https://airflow.apache.org/docs/)
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://docs.aws.amazon.com/)
 [![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)](https://docs.snowflake.com/)
-[![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)](https://docs.getdbt.com/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/doc/)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://docs.github.com/en/actions)
+
+## 🚀 Data Engineering Tech Stack
+
+<p align="center">
+<a href="https://www.python.org/doc/"><img src="https://skillicons.dev/icons?i=python" /></a>
+<a href="https://spark.apache.org/docs/latest/"><img src="https://skillicons.dev/icons?i=spark" /></a>
+<a href="https://aws.amazon.com/documentation/"><img src="https://skillicons.dev/icons?i=aws" /></a>
+<a href="https://airflow.apache.org/docs/"><img src="https://skillicons.dev/icons?i=apacheairflow" /></a>
+<a href="https://docs.github.com/en/actions"><img src="https://skillicons.dev/icons?i=githubactions" /></a>
+<a href="https://git-scm.com/doc"><img src="https://skillicons.dev/icons?i=git" /></a>
+<a href="https://docs.databricks.com/"><img src="https://cdn.simpleicons.org/databricks/FF3621" width="48"/></a>
+<a href="https://docs.snowflake.com/"><img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="48"/></a>
+</p>
 
