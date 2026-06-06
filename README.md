@@ -27,7 +27,7 @@
 </a>
 
 <a href="https://spark.apache.org/docs/latest/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=spark" height="55"/>
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" height="55"/>
 </a>
 
 <a href="https://aws.amazon.com/documentation/" target="_blank">
